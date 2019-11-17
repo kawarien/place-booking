@@ -1,0 +1,7 @@
+{
+  "appId": "com.ionic.angular.tuto",
+  "appName": "place-booking",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
